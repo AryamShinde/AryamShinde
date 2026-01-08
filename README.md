@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**AryamShinde/AryamShinde** is a ✨ _special_ ✨ repo# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on:<br>Building AI-powered products and full-stack applications, from Chrome extensions and dashboards to backend systems using React, Node.js, Supabase, and cloud services.<br>👯 I’m looking to collaborate on:<br>Early-stage startups, AI/ML-driven products, and developer tools where ideas move fast and code ships to real users.<br>🤝 I’m looking for help with:<br>Scaling systems, advanced cloud architecture, and learning from engineers who’ve built large, production-grade platforms.<br>🌱 I’m currently learning:<br>Generative AI, vector databases, system design, and how to turn good software into great products.<br>💬 Ask me about:<br>Full-stack development, AI integrations, data pipelines, dashboards, internships, or breaking down complex concepts simply.<br>⚡ Fun fact:<br>I love listening to music, I am a national level tennis player, currently learning chess.
 
 
@@ -21,4 +18,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->sitory because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
